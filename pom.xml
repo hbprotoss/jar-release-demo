@@ -7,13 +7,13 @@
     <version>1.0.3-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <dependencies>
-        <dependency>
-            <groupId>com.gttown</groupId>
-            <artifactId>gt-common-support</artifactId>
-            <version>1.3-SNAPSHOT</version>
-        </dependency>
-    </dependencies>
+    <!--<dependencies>-->
+        <!--<dependency>-->
+            <!--<groupId>com.gttown</groupId>-->
+            <!--<artifactId>gt-common-support</artifactId>-->
+            <!--<version>1.3-SNAPSHOT</version>-->
+        <!--</dependency>-->
+    <!--</dependencies>-->
 
     <scm>
         <url>https://github.com/hbprotoss/jar-release-demo</url>
