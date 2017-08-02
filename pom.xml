@@ -43,6 +43,7 @@
                 <version>2.5.3</version>
                 <configuration>
                     <tagBase>https://github.com/hbprotoss/jar-release-demo/tags</tagBase>
+                    <stagingRepository>http://192.168.2.63:8180/nexus/content/repositories/stageRepository/</stagingRepository>
                 </configuration>
             </plugin>
         </plugins>
