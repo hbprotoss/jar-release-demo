@@ -10,7 +10,7 @@
     <scm>
         <url>https://github.com/hbprotoss/jar-release-demo</url>
         <connection>scm:git:git@github.com:hbprotoss/jar-release-demo.git</connection>
-        <developerConnection>scm:git@github.com:hbprotoss/jar-release-demo.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:hbprotoss/jar-release-demo.git</developerConnection>
   </scm>
 
     <build>
