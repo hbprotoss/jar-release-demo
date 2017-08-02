@@ -9,9 +9,8 @@
 
     <scm>
         <url>https://github.com/hbprotoss/jar-release-demo</url>
-        <connection>scm:git:git://git@github.com/hbprotoss/jar-release-demo.git</connection>
-        <developerConnection>scm:git:git://git@github.com/hbprotoss/jar-release-demo.git</developerConnection>
-      <tag>jar-release-demo-1.0.0</tag>
+        <connection>scm:git:git://github.com/hbprotoss/jar-release-demo.git</connection>
+        <developerConnection>scm:git:git://github.com/hbprotoss/jar-release-demo.git</developerConnection>
   </scm>
 
     <build>
