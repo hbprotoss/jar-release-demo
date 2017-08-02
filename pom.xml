@@ -4,14 +4,14 @@
 
     <groupId>io.hbprotoss.demo</groupId>
     <artifactId>jar-release-demo</artifactId>
-    <version>1.0.2-SNAPSHOT</version>
+    <version>1.0.2</version>
     <packaging>jar</packaging>
 
     <scm>
         <url>https://github.com/hbprotoss/jar-release-demo</url>
         <connection>scm:git:git@github.com:hbprotoss/jar-release-demo.git</connection>
         <developerConnection>scm:git:git@github.com:hbprotoss/jar-release-demo.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>jar-release-demo-1.0.2</tag>
   </scm>
 
     <distributionManagement>
