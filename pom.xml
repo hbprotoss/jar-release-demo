@@ -4,7 +4,7 @@
 
     <groupId>io.hbprotoss.demo</groupId>
     <artifactId>jar-release-demo</artifactId>
-    <version>1.0.3-SNAPSHOT</version>
+    <version>1.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <scm>
